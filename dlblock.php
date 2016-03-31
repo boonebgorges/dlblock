@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DLBlock
-Version: 0.1-alpha
+Version: 1.0-alpha
 Description: Block downloads
 Author: Boone Gorges
 Author URI: http://boone.gorg.es
